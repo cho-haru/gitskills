@@ -1,2 +1,4 @@
 # gitskills
-clone check
+clone chec
+
+Cool!
