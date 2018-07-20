@@ -2,4 +2,4 @@
 clone chec
 
 Cool!
-& simple
+AND simple.
