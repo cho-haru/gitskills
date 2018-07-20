@@ -2,6 +2,6 @@
 clone chec
 
 Cool!
-AND simple.
+AND simple..
 
 check no-ff
